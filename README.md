@@ -2,7 +2,7 @@
 
 The Digital Clock project is a Python-based application that displays the current time in a digital format. It provides a simple and interactive way to keep track of time using your computer.
 
-#Features
+# Features
 Real-time clock display: The application shows the current time with hours, minutes, and seconds.
 12-hour or 24-hour format: You can choose to display the time in either the 12-hour or 24-hour format.
 User-friendly interface: The clock is presented in a clear and easy-to-read manner, enhancing readability and usability.
